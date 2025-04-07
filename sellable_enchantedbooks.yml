@@ -1,0 +1,1368 @@
+name: 'ᴇɴᴄʜᴀɴᴛᴇᴅ ʙᴏᴏᴋꜱ'
+size: 54
+items:
+  '1':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FIRE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 0
+  '2':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FIRE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 1
+  '3':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FIRE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 2
+  '4':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FIRE,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 3
+  '5':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ALL,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 4
+  '6':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ALL,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 5
+  '7':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ALL,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 6
+  '8':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ALL,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 7
+  '9':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ALL,5
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 8
+  '10':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_FIRE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 9
+  '11':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SOUL_SPEED,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 10
+  '12':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SOUL_SPEED,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 11
+  '13':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SOUL_SPEED,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 12
+  '14':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - WATER_WORKER,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 13
+  '15':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_KNOCKBACK,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 14
+  '16':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_KNOCKBACK,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 15
+  '17':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOYALTY,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 16
+  '18':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOYALTY,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 17
+  '19':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOYALTY,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 18
+  '20':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DEPTH_STRIDER,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 19
+  '21':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DEPTH_STRIDER,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 20
+  '22':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DEPTH_STRIDER,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 21
+  '23':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - VANISHING_CURSE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 22
+  '24':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DURABILITY,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 23
+  '25':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DURABILITY,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 24
+  '26':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DURABILITY,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 25
+  '27':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - KNOCKBACK,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 26
+  '28':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - KNOCKBACK,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 27
+  '29':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LUCK,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 28
+  '30':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LUCK,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 29
+  '31':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LUCK,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 30
+  '32':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - BINDING_CURSE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 31
+  '33':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOOT_BONUS_BLOCKS,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 32
+  '34':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOOT_BONUS_BLOCKS,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 33
+  '35':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOOT_BONUS_BLOCKS,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 34
+  '37':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_ENVIRONMENTAL,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 35
+  '38':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_ENVIRONMENTAL,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 36
+  '39':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_ENVIRONMENTAL,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 37
+  '40':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_ENVIRONMENTAL,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 38
+  '41':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DIG_SPEED,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 39
+  '42':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DIG_SPEED,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 40
+  '43':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DIG_SPEED,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 41
+  '44':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DIG_SPEED,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 42
+  '45':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DIG_SPEED,5
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 43
+  '46':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - MENDING,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 44
+  '47':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - FROST_WALKER,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 0
+    page: 2
+  '48':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - FROST_WALKER,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 1
+    page: 2
+  '49':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LURE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 2
+    page: 2
+  '50':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LURE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 3
+    page: 2
+  '51':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LURE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 4
+    page: 2
+  '52':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOOT_BONUS_MOBS,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 5
+    page: 2
+  '53':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOOT_BONUS_MOBS,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 6
+    page: 2
+  '54':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - LOOT_BONUS_MOBS,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 7
+    page: 2
+  '55':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PIERCING,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 8
+    page: 2
+  '56':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PIERCING,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 9
+    page: 2
+  '57':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PIERCING,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 10
+    page: 2
+  '58':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PIERCING,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 11
+    page: 2
+  '59':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_EXPLOSIONS,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 12
+    page: 2
+  '60':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_EXPLOSIONS,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 13
+    page: 2
+  '61':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_EXPLOSIONS,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 14
+    page: 2
+  '62':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_EXPLOSIONS,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 15
+    page: 2
+  '63':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_UNDEAD,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 16
+    page: 2
+  '64':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_UNDEAD,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 17
+    page: 2
+  '65':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_UNDEAD,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 18
+    page: 2
+  '66':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_UNDEAD,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 19
+    page: 2
+  '67':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_UNDEAD,5
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 20
+    page: 2
+  '68':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - MULTISHOT,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 21
+    page: 2
+  '69':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SWIFT_SNEAK,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 22
+    page: 2
+  '70':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SWIFT_SNEAK,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 23
+    page: 2
+  '71':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SWIFT_SNEAK,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 24
+    page: 2
+  '72':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - FIRE_ASPECT,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 25
+    page: 2
+  '73':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - FIRE_ASPECT,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 26
+    page: 2
+  '74':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - CHANNELING,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 27
+    page: 2
+  '75':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SWEEPING_EDGE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 28
+    page: 2
+  '76':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SWEEPING_EDGE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 29
+    page: 2
+  '77':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SWEEPING_EDGE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 30
+    page: 2
+  '78':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - THORNS,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 31
+    page: 2
+  '79':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - THORNS,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 32
+    page: 2
+  '80':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - THORNS,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 33
+    page: 2
+  '81':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ARTHROPODS,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 34
+    page: 2
+  '82':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ARTHROPODS,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 35
+    page: 2
+  '83':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ARTHROPODS,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 36
+    page: 2
+  '84':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ARTHROPODS,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 37
+    page: 2
+  '85':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - DAMAGE_ARTHROPODS,5
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 38
+    page: 2
+  '86':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - OXYGEN,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 39
+    page: 2
+  '87':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - OXYGEN,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 40
+    page: 2
+  '88':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - OXYGEN,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 41
+    page: 2
+  '89':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - RIPTIDE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 42
+    page: 2
+  '90':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - RIPTIDE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 43
+    page: 2
+  '91':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - RIPTIDE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 44
+    page: 2
+  '92':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - SILK_TOUCH,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 0
+    page: 3
+  '93':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - QUICK_CHARGE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 1
+    page: 3
+  '94':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - QUICK_CHARGE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 2
+    page: 3
+  '95':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - QUICK_CHARGE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 3
+    page: 3
+  '96':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_PROJECTILE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 4
+    page: 3
+  '97':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_PROJECTILE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 5
+    page: 3
+  '98':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_PROJECTILE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 6
+    page: 3
+  '99':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_PROJECTILE,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 7
+    page: 3
+  '100':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - IMPALING,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 8
+    page: 3
+  '101':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - IMPALING,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 9
+    page: 3
+  '102':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - IMPALING,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 10
+    page: 3
+  '103':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - IMPALING,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 11
+    page: 3
+  '104':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - IMPALING,5
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 12
+    page: 3
+  '105':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FALL,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 13
+    page: 3
+  '106':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FALL,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 14
+    page: 3
+  '107':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FALL,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 15
+    page: 3
+  '108':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - PROTECTION_FALL,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 16
+    page: 3
+  '109':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_DAMAGE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 17
+    page: 3
+  '110':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_DAMAGE,2
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 18
+    page: 3
+  '111':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_DAMAGE,3
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 19
+    page: 3
+  '112':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_DAMAGE,4
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 20
+    page: 3
+  '113':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_DAMAGE,5
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 21
+    page: 3
+  '114':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: enchanted_book
+      enchants:
+      - ARROW_INFINITE,1
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 22
+    page: 3
+    
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+
+  previous:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to go to the previous page"
+    type: PREVIOUS
+    slot: 48
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ʙᴀᴄᴋ'
+        lore:
+          - "&fClick to go to the previous page"
+
+  next:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ɴᴇxᴛ'
+      lore:
+        - "&fClick to go to the next page"
+    type: NEXT
+    slot: 50
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ɴᴇxᴛ'
+        lore:
+          - "&fClick to go to the next page"
+          
+  back:
+    sound: UI_BUTTON_CLICK
+    pitch: 1.0
+    volume: 1.0
+    isPermanent: true
+    item:
+      material: RED_STAINED_GLASS_PANE
+      name: '#FC0000ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to return"
+    slot: 45
+    commands:
+      - 'sell'

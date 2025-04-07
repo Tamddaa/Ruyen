@@ -1,0 +1,492 @@
+name: 'ᴍᴏʙ ᴅʀᴏᴘꜱ'
+size: 54
+items:
+  '1':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: feather
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 0
+  '2':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: string
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 1
+  '3':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_chicken
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 2
+  '4':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: chicken
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 3
+  '5':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: glow_ink_sac
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 4
+  '6':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: beef
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 5
+  '7':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_beef
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 6
+  '8':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: leather
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 7
+  '9':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_cod
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 8
+  '10':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cod
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 9
+  '11':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: porkchop
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 10
+  '12':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_porkchop
+    buyPrice: 0.0
+    sellPrice: 0.3
+    slot: 11
+  '13':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pufferfish
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 12
+  '14':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: rabbit_hide
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 13
+  '15':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_rabbit
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 14
+  '16':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: rabbit
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 15
+  '17':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_salmon
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 16
+  '18':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: salmon
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 17
+  '19':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: mutton
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 18
+  '20':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cooked_mutton
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 19
+  '22':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: bone_meal
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 20
+  '23':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: snowball
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 21
+  '24':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: ink_sac
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 22
+  '25':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: tropical_fish
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 23
+  '26':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: seagrass
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 24
+  '27':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: bowl
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 25
+  '28':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: rotten_flesh
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 26
+  '29':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: spider_eye
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 27
+  '30':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: ender_pearl
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 28
+  '31':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: poppy
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 29
+  '32':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: blaze_rod
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 30
+  '33':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: prismarine_shard
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 31
+  '34':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: prismarine_crystals
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 32
+  '35':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: wet_sponge
+    buyPrice: 0.0
+    sellPrice: 100.0
+    slot: 33
+  '36':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: tide_armor_trim_smithing_template
+    buyPrice: 0.0
+    sellPrice: 50.0
+    slot: 34
+  '37':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: totem_of_undying
+    buyPrice: 0.0
+    sellPrice: 50.0
+    slot: 35
+  '38':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: emerald
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 36
+  '39':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: ghast_tear
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 37
+  '40':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: gunpowder
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 38
+  '41':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: magma_cream
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 39
+  '42':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: phantom_membrane
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 40
+  '43':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: arrow
+    buyPrice: 0.0
+    sellPrice: 1.2
+    slot: 41
+  '44':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: saddle
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 42
+  '45':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: shulker_shell
+    buyPrice: 0.0
+    sellPrice: 50.0
+    slot: 43
+  '46':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: slime_ball
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 44
+  '47':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: baked_potato
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 0
+    page: 2
+  '48':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: copper_ingot
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 1
+    page: 2
+  '49':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: fishing_rod
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 2
+    page: 2
+    
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+
+  previous:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to go to the previous page"
+    type: PREVIOUS
+    slot: 48
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ʙᴀᴄᴋ'
+        lore:
+          - "&fClick to go to the previous page"
+
+  next:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ɴᴇxᴛ'
+      lore:
+        - "&fClick to go to the next page"
+    type: NEXT
+    slot: 50
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ɴᴇxᴛ'
+        lore:
+          - "&fClick to go to the next page"
+          
+  back:
+    sound: UI_BUTTON_CLICK
+    pitch: 1.0
+    volume: 1.0
+    isPermanent: true
+    item:
+      material: RED_STAINED_GLASS_PANE
+      name: '#FC0000ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to return"
+    slot: 45
+    commands:
+      - 'sell'

@@ -1,0 +1,532 @@
+name: 'ᴏʀᴇꜱ'
+size: 54
+items:
+  '1':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: coal_ore
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 0
+  '2':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_coal_ore
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 1
+  '3':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: iron_ore
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 2
+  '4':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_iron_ore
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 3
+  '5':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: copper_ore
+    buyPrice: 0.0
+    sellPrice: 2.5
+    slot: 4
+  '6':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_copper_ore
+    buyPrice: 0.0
+    sellPrice: 2.5
+    slot: 5
+  '7':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: gold_ore
+    buyPrice: 0.0
+    sellPrice: 6.0
+    slot: 6
+  '8':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_gold_ore
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 7
+  '9':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: redstone_ore
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 8
+  '10':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_redstone_ore
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 9
+  '11':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: emerald_ore
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 10
+  '12':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_emerald_ore
+    buyPrice: 0.0
+    sellPrice: 4.0
+    slot: 11
+  '13':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lapis_ore
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 12
+  '14':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_lapis_ore
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 13
+  '15':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: deepslate_diamond_ore
+    buyPrice: 0.0
+    sellPrice: 50.0
+    slot: 14
+  '16':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: nether_gold_ore
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 15
+  '17':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: nether_quartz_ore
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 16
+  '18':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: diamond_ore
+    buyPrice: 0.0
+    sellPrice: 75.0
+    slot: 17
+  '19':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: diamond_block
+    buyPrice: 0.0
+    sellPrice: 680.0
+    slot: 18
+  '20':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: netherite_block
+    buyPrice: 0.0
+    sellPrice: 1000.0
+    slot: 19
+  '21':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: emerald_block
+    buyPrice: 0.0
+    sellPrice: 45.0
+    slot: 20
+  '22':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: redstone_block
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 21
+  '23':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: iron_block
+    buyPrice: 0.0
+    sellPrice: 30.0
+    slot: 22
+  '24':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lapis_block
+    buyPrice: 0.0
+    sellPrice: 9.0
+    slot: 23
+  '25':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: gold_block
+    buyPrice: 0.0
+    sellPrice: 45.0
+    slot: 24
+  '26':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: copper_block
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 25
+  '27':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: charcoal
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 26
+  '28':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: coal
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 27
+  '29':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: raw_iron
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 28
+  '30':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: raw_gold
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 29
+  '31':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: diamond
+    buyPrice: 0.0
+    sellPrice: 20.0
+    slot: 30
+  '32':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: quartz
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 31
+  '33':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: raw_copper
+    buyPrice: 0.0
+    sellPrice: 1.25
+    slot: 32
+  '34':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: iron_ingot
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 33
+  '35':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: copper_ingot
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 34
+  '36':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: gold_ingot
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 35
+  '37':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: netherite_ingot
+    buyPrice: 0.0
+    sellPrice: 200.0
+    slot: 36
+  '38':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: amethyst_cluster
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 37
+  '39':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: large_amethyst_bud
+    buyPrice: 0.0
+    sellPrice: 0.3
+    slot: 38
+  '40':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: medium_amethyst_bud
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 39
+  '41':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: small_amethyst_bud
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 40
+  '42':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: amethyst_shard
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 41
+  '43':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: echo_shard
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 42
+  '44':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: clay_ball
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 43
+  '45':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lapis_lazuli
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 44
+  '46':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: iron_nugget
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 0
+    page: 2
+  '47':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: gold_nugget
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 1
+    page: 2
+  '48':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: ancient_debris
+    buyPrice: 0.0
+    sellPrice: 150.0
+    slot: 2
+    page: 2
+  '49':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: netherite_scrap
+    buyPrice: 0.0
+    sellPrice: 25.0
+    slot: 3
+    page: 2
+  '50':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: glowstone_dust
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 4
+    page: 2
+  '51':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: redstone
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 5
+    page: 2
+  '52':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: brick
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 6
+    page: 2
+    
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+
+  previous:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to go to the previous page"
+    type: PREVIOUS
+    slot: 48
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ʙᴀᴄᴋ'
+        lore:
+          - "&fClick to go to the previous page"
+
+  next:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ɴᴇxᴛ'
+      lore:
+        - "&fClick to go to the next page"
+    type: NEXT
+    slot: 50
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ɴᴇxᴛ'
+        lore:
+          - "&fClick to go to the next page"
+          
+  back:
+    sound: UI_BUTTON_CLICK
+    pitch: 1.0
+    volume: 1.0
+    isPermanent: true
+    item:
+      material: RED_STAINED_GLASS_PANE
+      name: '#FC0000ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to return"
+    slot: 45
+    commands:
+      - 'sell'

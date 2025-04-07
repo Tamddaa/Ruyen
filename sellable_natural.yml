@@ -1,0 +1,1322 @@
+name: 'ɴᴀᴛᴜʀᴀʟ ɪᴛᴇᴍꜱ'
+size: 54
+items:
+  '1':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: oak_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 0
+  '2':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: spruce_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 1
+  '3':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: birch_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 2
+  '4':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: jungle_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 3
+  '5':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: acacia_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 4
+  '6':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dark_oak_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 5
+  '7':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: crimson_stem
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 6
+  '8':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: warped_stem
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 7
+  '9':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_oak_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 8
+  '10':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_spruce_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 9
+  '11':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_birch_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 10
+  '12':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_jungle_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 11
+  '13':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_acacia_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 12
+  '14':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_dark_oak_log
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 13
+  '15':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_crimson_stem
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 14
+  '16':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_warped_stem
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 15
+  '17':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: oak_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 16
+  '18':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: spruce_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 17
+  '19':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: birch_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 18
+  '20':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: jungle_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 19
+  '21':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: acacia_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 20
+  '22':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dark_oak_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 21
+  '23':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: crimson_hyphae
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 22
+  '24':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: warped_hyphae
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 23
+  '25':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_oak_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 24
+  '26':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_spruce_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 25
+  '27':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_birch_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 26
+  '28':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_jungle_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 27
+  '29':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_acacia_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 28
+  '30':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_dark_oak_wood
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 29
+  '31':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_crimson_hyphae
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 30
+  '32':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: stripped_warped_hyphae
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 31
+  '33':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: oak_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 32
+  '34':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: spruce_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 33
+  '35':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: birch_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 34
+  '36':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: jungle_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 35
+  '37':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: acacia_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 36
+  '38':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dark_oak_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 37
+  '39':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: nether_wart_block
+    buyPrice: 0.0
+    sellPrice: 2.0
+    slot: 38
+  '40':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: warped_wart_block
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 39
+  '41':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: grass_block
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 40
+  '42':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: fern
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 41
+  '43':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_bush
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 42
+  '44':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: seagrass
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 43
+  '46':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dandelion
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 44
+  '47':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: poppy
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 0
+    page: 2
+  '48':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: blue_orchid
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 1
+    page: 2
+  '49':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pink_petals
+    buyPrice: 0.0
+    sellPrice: 0.3
+    slot: 2
+    page: 2
+  '50':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: allium
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 3
+    page: 2
+  '51':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: azure_bluet
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 4
+    page: 2
+  '52':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: red_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 5
+    page: 2
+  '53':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: orange_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 6
+    page: 2
+  '54':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: white_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 7
+    page: 2
+  '55':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pink_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 8
+    page: 2
+  '56':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: oxeye_daisy
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 9
+    page: 2
+  '57':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cornflower
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 10
+    page: 2
+  '58':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: azalea_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 11
+    page: 2
+  '59':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: flowering_azalea_leaves
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 12
+    page: 2
+  '60':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cherry_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 13
+    page: 2
+  '61':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: mangrove_leaves
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 14
+    page: 2
+  '62':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lily_of_the_valley
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 15
+    page: 2
+  '63':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: wither_rose
+    buyPrice: 0.0
+    sellPrice: 50.0
+    slot: 16
+    page: 2
+  '64':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: sunflower
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 17
+    page: 2
+  '65':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lilac
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 18
+    page: 2
+  '66':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: rose_bush
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 19
+    page: 2
+  '67':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: peony
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 20
+    page: 2
+  '68':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: mangrove_propagule
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 21
+    page: 2
+  '69':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: goat_horn
+    buyPrice: 0.0
+    sellPrice: 150.0
+    slot: 22
+    page: 2
+  '70':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: frogspawn
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 23
+    page: 2
+  '71':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: ochre_froglight
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 24
+    page: 2
+  '72':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pearlescent_froglight
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 25
+    page: 2
+  '73':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: verdant_froglight
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 26
+    page: 2
+  '74':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: black_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 27
+    page: 2
+  '75':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: blue_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 28
+    page: 2
+  '76':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: brown_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 29
+    page: 2
+  '77':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: light_blue_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 30
+    page: 2
+  '78':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: gray_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 31
+    page: 2
+  '79':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cyan_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 32
+    page: 2
+  '80':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: green_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 33
+    page: 2
+  '81':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: light_gray_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 34
+    page: 2
+  '82':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: light_blue_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 35
+    page: 2
+  '83':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: yellow_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 36
+    page: 2
+  '84':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: white_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 37
+    page: 2
+  '85':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: red_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 38
+    page: 2
+  '86':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: purple_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 39
+    page: 2
+  '87':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pink_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 40
+    page: 2
+  '88':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: orange_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 41
+    page: 2
+  '89':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: magenta_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 42
+    page: 2
+  '90':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lime_dye
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 43
+    page: 2
+  '91':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pink_petals
+    buyPrice: 0.0
+    sellPrice: 0.3
+    slot: 44
+    page: 2
+  '92':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: large_fern
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 0
+    page: 3
+  '93':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: spore_blossom
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 1
+    page: 3
+  '94':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: red_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 2
+    page: 3
+  '95':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: orange_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 3
+    page: 3
+  '96':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: white_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 4
+    page: 3
+  '97':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: pink_tulip
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 5
+    page: 3
+  '98':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: oxeye_daisy
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 6
+    page: 3
+  '99':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: cornflower
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 7
+    page: 3
+  '100':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: lily_of_the_valley
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 8
+    page: 3
+  '101':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: wither_rose
+    buyPrice: 0.0
+    sellPrice: 50.0
+    slot: 9
+    page: 3
+  '102':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: sugar_cane
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 10
+    page: 3
+  '103':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: kelp
+    buyPrice: 0.0
+    sellPrice: 3.0
+    slot: 11
+    page: 3
+  '104':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: bamboo
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 12
+    page: 3
+  '106':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: brain_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 13
+    page: 3
+  '107':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: bubble_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 14
+    page: 3
+  '108':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: fire_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 15
+    page: 3
+  '109':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: horn_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 16
+    page: 3
+  '110':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: tube_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 17
+    page: 3
+  '111':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: brain_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 18
+    page: 3
+  '112':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: bubble_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 19
+    page: 3
+  '113':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: fire_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 20
+    page: 3
+  '114':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: horn_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 21
+    page: 3
+  '115':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: tube_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 22
+    page: 3
+  '116':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_brain_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 23
+    page: 3
+  '117':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_bubble_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 24
+    page: 3
+  '118':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_fire_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 25
+    page: 3
+  '119':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_horn_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 26
+    page: 3
+  '120':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_tube_coral
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 27
+    page: 3
+  '121':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_brain_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 28
+    page: 3
+  '122':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_bubble_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 29
+    page: 3
+  '123':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_fire_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 30
+    page: 3
+  '124':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_horn_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 31
+    page: 3
+  '125':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: dead_tube_coral_fan
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 32
+    page: 3
+  '126':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: seagrass
+    buyPrice: 0.0
+    sellPrice: 0.2
+    slot: 33
+    page: 3
+  '127':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: sea_lantern
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 34
+    page: 3
+  '128':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: shroomlight
+    buyPrice: 0.0
+    sellPrice: 0.5
+    slot: 35
+    page: 3
+  '129':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: honeycomb_block
+    buyPrice: 0.0
+    sellPrice: 5.0
+    slot: 36
+    page: 3
+  '130':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: nether_wart
+    buyPrice: 0.0
+    sellPrice: 1.0
+    slot: 37
+    page: 3
+  '131':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: chorus_fruit
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 38
+    page: 3
+  '132':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: chorus_flower
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 39
+    page: 3
+  '133':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: chorus_plant
+    buyPrice: 0.0
+    sellPrice: 0.1
+    slot: 40
+    page: 3
+    
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+########################################################################################################################################################################################################
+
+  previous:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to go to the previous page"
+    type: PREVIOUS
+    slot: 48
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ʙᴀᴄᴋ'
+        lore:
+          - "&fClick to go to the previous page"
+
+  next:
+    sound: ITEM_BOOK_PAGE_TURN
+    pitch: 1.0
+    volume: 1.0
+    item:
+      material: ARROW
+      name: '#00F986ɴᴇxᴛ'
+      lore:
+        - "&fClick to go to the next page"
+    type: NEXT
+    slot: 50
+    else:
+      item:
+        material: ARROW
+        name: '#00F986ɴᴇxᴛ'
+        lore:
+          - "&fClick to go to the next page"
+          
+  back:
+    sound: UI_BUTTON_CLICK
+    pitch: 1.0
+    volume: 1.0
+    isPermanent: true
+    item:
+      material: RED_STAINED_GLASS_PANE
+      name: '#FC0000ʙᴀᴄᴋ'
+      lore:
+        - "&fClick to return"
+    slot: 45
+    commands:
+      - 'sell'

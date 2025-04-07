@@ -1,0 +1,1951 @@
+name: 'ᴘᴏᴛɪᴏɴꜱ'
+size: 54
+items:
+  '1':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 0
+  '2':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 1
+  '3':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 2
+  '4':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: WATER
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 3
+  '5':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: WATER
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 4
+  '6':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: WATER
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 5
+  '7':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: MUNDANE
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 6
+  '8':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: MUNDANE
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 7
+  '9':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: MUNDANE
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 8
+  '10':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: THICK
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 9
+  '11':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: THICK
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 10
+  '12':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: THICK
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 11
+  '13':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: AWKWARD
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 12
+  '14':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: AWKWARD
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 13
+  '15':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: AWKWARD
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 14
+  '16':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 15
+  '17':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: NIGHT_VISION
+      level: 2
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 16
+  '18':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 17
+  '19':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 18
+  '20':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 19
+  '21':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 20
+  '22':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 21
+  '23':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 22
+  '24':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: NIGHT_VISION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 23
+  '25':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 24
+  '26':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 25
+  '27':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 26
+  '28':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 27
+  '29':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 28
+  '30':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 29
+  '31':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 30
+  '32':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 31
+  '33':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: INVISIBILITY
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 32
+  '34':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 33
+  '35':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 34
+  '36':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 35
+  '37':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 36
+  '38':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 37
+  '39':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 38
+  '40':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 39
+  '41':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 40
+  '42':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 41
+  '43':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 42
+  '44':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 43
+  '45':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+      potion: JUMP
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 44
+  '46':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 0
+    page: 2
+  '47':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 1
+    page: 2
+  '48':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 2
+    page: 2
+  '49':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 3
+    page: 2
+  '50':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 4
+    page: 2
+  '51':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 5
+    page: 2
+  '52':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 6
+    page: 2
+  '53':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 7
+    page: 2
+  '54':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 8
+    page: 2
+  '55':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 9
+    page: 2
+  '56':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 10
+    page: 2
+  '57':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 11
+    page: 2
+  '58':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 12
+    page: 2
+  '59':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 13
+    page: 2
+  '60':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 14
+    page: 2
+  '61':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 15
+    page: 2
+  '62':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 16
+    page: 2
+  '63':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 17
+    page: 2
+  '64':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 18
+    page: 2
+  '65':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 19
+    page: 2
+  '66':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 20
+    page: 2
+  '67':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 21
+    page: 2
+  '68':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 22
+    page: 2
+  '69':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 23
+    page: 2
+  '70':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 24
+    page: 2
+  '71':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 25
+    page: 2
+  '72':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 26
+    page: 2
+  '73':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 27
+    page: 2
+  '74':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 28
+    page: 2
+  '75':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 29
+    page: 2
+  '76':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 30
+    page: 2
+  '77':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 31
+    page: 2
+  '78':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 32
+    page: 2
+  '79':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 33
+    page: 2
+  '80':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 34
+    page: 2
+  '81':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 35
+    page: 2
+  '82':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 36
+    page: 2
+  '83':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 37
+    page: 2
+  '84':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 38
+    page: 2
+  '85':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 39
+    page: 2
+  '86':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 40
+    page: 2
+  '87':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 41
+    page: 2
+  '88':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 42
+    page: 2
+  '89':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 43
+    page: 2
+  '90':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 44
+    page: 2
+  '91':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 0
+    page: 3
+  '92':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 1
+    page: 3
+  '93':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 2
+    page: 3
+  '94':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 3
+    page: 3
+  '95':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 4
+    page: 3
+  '96':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 5
+    page: 3
+  '97':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 6
+    page: 3
+  '98':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 7
+    page: 3
+  '99':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 8
+    page: 3
+  '100':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 9
+    page: 3
+  '101':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 10
+    page: 3
+  '102':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 11
+    page: 3
+  '103':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 12
+    page: 3
+  '104':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 13
+    page: 3
+  '105':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 14
+    page: 3
+  '106':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 15
+    page: 3
+  '107':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 16
+    page: 3
+  '108':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 17
+    page: 3
+  '109':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 18
+    page: 3
+  '110':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 19
+    page: 3
+  '111':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 20
+    page: 3
+  '112':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 21
+    page: 3
+  '113':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 22
+    page: 3
+  '114':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 23
+    page: 3
+  '115':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 24
+    page: 3
+  '116':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 25
+    page: 3
+  '117':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 26
+    page: 3
+  '118':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 27
+    page: 3
+  '119':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 28
+    page: 3
+  '120':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 29
+    page: 3
+  '121':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 30
+    page: 3
+  '122':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 31
+    page: 3
+  '123':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 32
+    page: 3
+  '124':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 33
+    page: 3
+  '125':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 34
+    page: 3
+  '126':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 35
+    page: 3
+  '127':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 36
+    page: 3
+  '128':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 37
+    page: 3
+  '129':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 38
+    page: 3
+  '130':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 39
+    page: 3
+  '131':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 40
+    page: 3
+  '132':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 41
+    page: 3
+  '133':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 42
+    page: 3
+  '134':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 43
+    page: 3
+  '135':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 44
+    page: 3
+  '136':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 0
+    page: 4
+  '137':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 1
+    page: 4
+  '138':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 2
+    page: 4
+  '139':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 3
+    page: 4
+  '140':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 4
+    page: 4
+  '141':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 5
+    page: 4
+  '142':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 6
+    page: 4
+  '143':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 7
+    page: 4
+  '144':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 8
+    page: 4
+  '145':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 9
+    page: 4
+  '146':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 10
+    page: 4
+  '147':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 11
+    page: 4
+  '148':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 12
+    page: 4
+  '149':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 13
+    page: 4
+  '150':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 14
+    page: 4
+  '151':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 15
+    page: 4
+  '152':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 16
+    page: 4
+  '153':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 17
+    page: 4
+  '154':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 18
+    page: 4
+  '155':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 19
+    page: 4
+  '156':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 20
+    page: 4
+  '157':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 21
+    page: 4
+  '158':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 22
+    page: 4
+  '159':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 23
+    page: 4
+  '160':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 24
+    page: 4
+  '161':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 25
+    page: 4
+  '162':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 26
+    page: 4
+  '163':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 27
+    page: 4
+  '164':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 28
+    page: 4
+  '165':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 29
+    page: 4
+  '166':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 30
+    page: 4
+  '167':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 31
+    page: 4
+  '168':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 32
+    page: 4
+  '169':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 33
+    page: 4
+  '170':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 34
+    page: 4
+  '171':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 35
+    page: 4
+  '172':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 36
+    page: 4
+  '173':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 37
+    page: 4
+  '174':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 38
+    page: 4
+  '175':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 39
+    page: 4
+  '176':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 40
+    page: 4
+  '177':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 41
+    page: 4
+  '178':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 42
+    page: 4
+  '179':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 43
+    page: 4
+  '180':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 44
+    page: 4
+  '181':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 0
+    page: 5
+  '182':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 1
+    page: 5
+  '183':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 2
+    page: 5
+  '184':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 3
+    page: 5
+  '185':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 4
+    page: 5
+  '186':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 5
+    page: 5
+  '187':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 6
+    page: 5
+  '188':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 7
+    page: 5
+  '189':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 8
+    page: 5
+  '190':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 9
+    page: 5
+  '191':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 10
+    page: 5
+  '192':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 11
+    page: 5
+  '193':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: potion
+    buyPrice: 0.0
+    sellPrice: 3.5
+    slot: 12
+    page: 5
+  '194':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: LINGERING_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 13
+    page: 5
+  '195':
+    type: ZSHOP_ITEM
+    lore:
+      - "&fPrice: #00F986%sellPrice%"
+    item:
+      material: SPLASH_POTION
+    buyPrice: 0.0
+    sellPrice: 10.0
+    slot: 14
+    page: 5
